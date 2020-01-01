@@ -1614,14 +1614,14 @@ button, .button {
   cursor: pointer;
   font-weight: normal;
   line-height: normal;
-  margin: 0 0 1.25rem;
+ /* margin: 0 0 1.25rem;*/
   position: relative;
   text-decoration: none;
   text-align: center;
   display: inline-block;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  padding: 0.5em 1em;
+  /*padding: 0.5em 1em;*/
   font-size: 1.3rem;
   border-color: #696E74;
   color: white;
