@@ -85,7 +85,7 @@
 	.top-bar-section ul li:hover > a,
 	.top-bar-section ul li.active > a,
 	.recent_posts li a.readmore {
-		color:#3498db;
+		color:#f6b129;
 	}
 
 	.pagination > .active > a,
@@ -144,7 +144,7 @@
 	.no-touch .dm-icon-effect-1 .dm-icon.active,
 	.no-touch .dm-icon-effect-1 .dm-icon:hover,
 	.naver .naver-handle:before,
-	button, .button,
+	button,
 	.owl-theme .owl-controls .owl-page.active span,
 	.owl-theme .owl-controls.clickable .owl-page:hover span,
 	.title:before,

@@ -2769,3 +2769,6 @@ textarea:focus{
   height: 45px;
   margin-bottom: 20px;
 }
+.highlight{
+line-height: 1;
+margin: 30px 0 0;}
